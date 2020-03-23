@@ -1,6 +1,6 @@
-# imoocmall
+# shoping-system
 
-> Imooc Mall 
+shoping system
 
 ## Build Setup
 
