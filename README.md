@@ -18,6 +18,4 @@ shoping system
 
 4、node server/bin/www // 启动express后端服务
 
-5、npm run dev![09b9fe2c5791c6e4e95ee5fe1c145554_1](C:\Users\pyq\Desktop\09b9fe2c5791c6e4e95ee5fe1c145554_1.jpg)
-
-![09b9fe2c5791c6e4e95ee5fe1c145554_1](C:\Users\pyq\Desktop\09b9fe2c5791c6e4e95ee5fe1c145554_1.jpg)
+5、npm run dev
