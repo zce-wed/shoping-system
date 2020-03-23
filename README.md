@@ -23,6 +23,7 @@ shoping system
 
 
 
+<<<<<<< HEAD
 项目描述： 项目描述： 根据用户的权限，实现不同的权限操作 
       
 
@@ -37,3 +38,6 @@ shoping system
 ​          6. 通过 axios 以后端交互。
 ​          7. 通过 localStorage 存储部分数据。
 ​          8. 通过 token实现登录认证。
+=======
+5、npm run dev
+>>>>>>> 55d3fec791755b4a52d8edf7a14d4187604aa297
