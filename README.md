@@ -5,17 +5,13 @@ shoping system
 ## Build Setup
 
 ``` bash
-# install dependencies
-npm install
+运行项目
+1、先安装mongodb和环境搭建： http://www.cnblogs.com/ccyinghua/p/7887713.html
 
-# serve with hot reload at localhost:8080
-npm run dev
+2、安装mongovue,建立dumall数据库，增加goods和users集合，插入数据(数据在resource/dumall-goods和resource/dumall-users)
+image
 
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
+3、npm install
+4、node server/bin/www // 启动express后端服务
+5、npm run dev
 ```
-
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
